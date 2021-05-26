@@ -1,0 +1,12 @@
+{
+  "name": "imk-covid-app",
+  "displayName": "imk-covid-app",
+  "expo": {
+    "name": "imk-covid-app",
+    "slug": "imk-covid-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
